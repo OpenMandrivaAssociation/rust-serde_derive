@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        1.0.125
-Release:        1
+Release:        2
 Summary:        Macros 1.1 implementation of #[derive(Serialize, Deserialize)]
 
 # Upstream license specification: MIT OR Apache-2.0
