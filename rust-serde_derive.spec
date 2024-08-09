@@ -4,8 +4,8 @@
 %global crate serde_derive
 
 Name:           rust-%{crate}
-Version:        1.0.125
-Release:        2
+Version:        1.0.205
+Release:        1
 Summary:        Macros 1.1 implementation of #[derive(Serialize, Deserialize)]
 
 # Upstream license specification: MIT OR Apache-2.0
